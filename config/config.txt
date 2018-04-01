@@ -1,0 +1,9 @@
+root_dir=/Users/leobrack/Documents
+username=leo.brack@hotmail.co.uk
+password=Ferrets13
+start_station=Hitchin
+return_station=London Kings Cross
+month=March 2018
+dow=All Days
+out=06:00,08:00
+return=17:00,19:00

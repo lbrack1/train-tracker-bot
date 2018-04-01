@@ -1,0 +1,12 @@
+january=Monday
+february=Thursday 01 February,Friday 02 February,Saturday 03 February,Sunday 04 February,Monday 05 February,Tuesday 06 February,Wednesday 07 February,Thursday 08 February,Friday 09 February,Saturday 10 February,Sunday 11 February,Monday 12 February,Tuesday 13 February,Wednesday 14 February,Thursday 15 February,Friday 16 February,Saturday 17 February,Sunday 18 February,Monday 19 February,Tuesday 20 February,Wednesday 21 February,Thursday 22 February,Friday 23 February,Saturday 24 February,Sunday 25 February,Monday 26 February,Tuesday 27 February,Wednesday 28 February
+march=Thursday 01 March,Friday 02 March,Saturday 03 March,Sunday 04 March,Monday 05 March,Tuesday 06 March,Wednesday 07 March,Thursday 08 March,Friday 09 March,Saturday 10 March,Sunday 11 March,Monday 12 March,Tuesday 13 March,Wednesday 14 March,Thursday 15 March,Friday 16 March,Saturday 17 March,Sunday 18 March,Monday 19 March,Tuesday 20 March,Wednesday 21 March,Thursday 22 March,Friday 23 March,Saturday 24 March,Sunday 25 March,Monday 26 March,Tuesday 27 March,Wednesday 28 March,Thursday 29 March, Friday 30 March, Saturday 31 March
+april=Saturday 01 April
+may=Tuesday 01 May
+june=Friday 01 June
+july=Sunday 01 July
+august=Wednesday 01 August
+september=Saturday 01 September
+october=Monday 01 October
+november=Thursday 01 November
+december=Saturday 01 December
